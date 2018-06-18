@@ -1,2 +1,3 @@
 # ShellEx
-Call shell commands form C# code
+
+Small program where we can see executions in bash from C# program. 
